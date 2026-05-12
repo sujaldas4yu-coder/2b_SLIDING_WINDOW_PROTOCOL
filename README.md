@@ -47,4 +47,4 @@ server side:
 <img width="1920" height="1140" alt="server_op" src="https://github.com/user-attachments/assets/5a20407a-8a9e-4065-86c0-7763ab22e1ad" />
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform sliding window protocol was successfully executed
